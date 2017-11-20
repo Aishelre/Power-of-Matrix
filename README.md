@@ -1,10 +1,11 @@
 # Engineering-Mathematics lecture HomeWork.
+### 아래는 주어진 형식에 따라 작성한 보고서입니다.
 
 # Requirements
 	- Python 3.5
 	- Anaconda
  
-# How to Use
+# Usage
 	1. IDE에서 실행하거나 프롬프트에서 Python power-of-matrix-aid.py를 입력한다.
 	2. 띄어쓰기를 구분으로 4개의 수를 입력한다.
 
