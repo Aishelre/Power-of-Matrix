@@ -1,5 +1,5 @@
 # Engineering-Mathematics lecture HomeWork.
-### 아래는 주어진 형식에 따라 작성한 보고서입니다.
+### 아래는 주어진 형식에 따라 작성한 과제 제출 보고서입니다.
 
 # Requirements
 	- Python 3.5
